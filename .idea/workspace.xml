@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffeb84f6-b323-4adc-addc-65573201ace0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/cnn_classifier.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicStructure_Folder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classifier_component/components/data_ingestion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classifier_component/components/evaluation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classifier_component/components/prepare_base_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classifier_component/components/prepare_callbacks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classifier_component/components/training.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classifier_component/entity/config_entity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classifier_component/pipeline/predict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classifier_component/pipeline/stage_01_data_ingestion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classifier_component/pipeline/stage_02_prepare_base_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classifier_component/pipeline/stage_03_training.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classifier_component/pipeline/stage_04_evaluation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classifier_component/utils/Common.py" afterDir="false" />
-    </list>
+    <list default="true" id="ffeb84f6-b323-4adc-addc-65573201ace0" name="Changes" comment="first_basic_V0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Sdiwakar558"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Sdiwakar558/cnn_classifier.git",
+    "accountId": "1cd27b9f-2edb-459c-8488-1f4460144479"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -72,7 +64,31 @@
       <option name="presentableId" value="Default" />
       <updated>1739425423785</updated>
     </task>
+    <task id="LOCAL-00001" summary="first_basic_V0">
+      <option name="closed" value="true" />
+      <created>1739545753869</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739545753869</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first_basic_V0" />
+    <option name="LAST_COMMIT_MESSAGE" value="first_basic_V0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
